@@ -1,0 +1,1 @@
+Hi! Welcome to ENSE 374 Lab.
